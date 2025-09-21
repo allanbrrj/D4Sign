@@ -1,2 +1,2 @@
 # D4Sign
-API da D4Sing para delphi
+API da D4Sign para delphi
